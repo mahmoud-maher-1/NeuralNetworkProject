@@ -9,6 +9,10 @@
 
 ---
 
+## Try our live deployment at https://neuralnetworkproject.streamlit.app/
+
+---
+
 ## 1. Project Overview
 An interactive Streamlit application that trains, evaluates and visualises two classic linear neural-network classifiers—**Perceptron** and **Adaline (Gradient-Descent)**—on a user-selected pair of bird-species features.  
 The tool guides users from data selection → hyper-parameter tuning → live training → performance metrics and decision-boundary plot in a single click.
